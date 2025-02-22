@@ -16,8 +16,8 @@
    - Analyzed the LTV at customer acquisition source level.
    - Analyzed average revenue per order at different source and acquisition month level.
 4) Delivery analysis:
- - Calculated average overall delivery time at month and delivery area level.
- - Compared weekday vs weekend delivery time and observed patterns.
+   - Calculated average overall delivery time at month and delivery area level.
+   - Compared weekday vs weekend delivery time and observed patterns.
 
 # Tools used: 
 - MS-Excel - Functions, Charts, Conditional formattings, Pivot tables
