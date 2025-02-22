@@ -19,5 +19,5 @@
  - Calculated average overall delivery time at month and delivery area level.
  - Compared weekday vs weekend delivery time and observed patterns.
 
-# Tools used:# 
+# Tools used: 
 - MS-Excel - Functions, Charts, Conditional formattings, Pivot tables
