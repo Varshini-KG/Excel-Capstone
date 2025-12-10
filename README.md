@@ -19,5 +19,7 @@
    - Calculated average overall delivery time at month and delivery area level.
    - Compared weekday vs weekend delivery time and observed patterns.
 
+# [View report](https://github.com/Varshini-KG/Excel-Capstone/blob/main/Excel%20Capstone%20Presentation.pdf)
+
 # Tools used: 
 - MS-Excel - Functions, Charts, Conditional formattings, Pivot tables
